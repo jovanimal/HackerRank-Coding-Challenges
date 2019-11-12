@@ -5,4 +5,5 @@ function bonAppetit(bill, k, b) {
   if (b > lessEater) console.log(b-lessEater);
 }
 
+
 bonAppetit([3,10,2,9],1,7)
