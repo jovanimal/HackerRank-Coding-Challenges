@@ -1,5 +1,4 @@
 let size = 10;
-
 let board = "";
 
 for (let y = 0; y < size; y++) {
